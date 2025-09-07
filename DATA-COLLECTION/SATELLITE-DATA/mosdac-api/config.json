@@ -1,0 +1,23 @@
+{
+"user_credentials": {
+        "username/email": "ashik",
+        "password": "@Ashik123"
+},
+
+"search_parameters": {
+        "datasetId": "3RIMG_L1C_SGP",
+        "startTime": "2024-01-02",
+        "endTime": "2024-01-06",
+        "count": "",
+        "boundingBox": "",
+        "gId": ""
+},
+
+"download_settings": {
+        "download_path" : "E:/MAIN-PROJECT/DATA-COLLECTION/SATELLITE-DATA/unprocessed-data",
+        "organize_by_date": false,
+        "skip_user_input": false,
+        "generate_error_logs": false,
+        "error_logs_dir": ""
+}
+} 

@@ -1,0 +1,39 @@
+# Ignore Python environments
+satenv/
+mlenv/
+
+# Ignore CSV, Excel, HDF5 files
+*.csv
+*.xlsx
+*.xls
+*.h5
+*.hdf5
+*.nc
+*.grib
+
+# Ignore Jupyter notebooks
+*.ipynb
+
+# Ignore Python cache and logs
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore docx and other office files
+*.docx
+*.pptx
+*.ppt
+*.pdf
+
+# Ignore data folders
+DATA-COLLECTION/**/processed-data/
+DATA-COLLECTION/**/unprocessed-data/
+
+# Ignore other temp files
+*.tmp
+*.bak
+*.swp

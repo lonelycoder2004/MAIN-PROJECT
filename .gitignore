@@ -30,6 +30,8 @@ __pycache__/
 *.ppt
 *.pdf
 
+DATA-COLLECTION/**/unprocessed-data/
+
 # Ignore other temp files
 *.tmp
 *.bak

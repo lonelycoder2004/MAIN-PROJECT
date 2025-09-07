@@ -9,6 +9,7 @@ mlenv/
 *.h5
 *.hdf5
 *.nc
+*.grib
 *.grib.*
 
 # Ignore Jupyter notebooks
